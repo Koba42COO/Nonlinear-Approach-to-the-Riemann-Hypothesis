@@ -1,0 +1,141 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+.conda/
+conda/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Compiled binaries
+*.exe
+*.dll
+*.dylib
+
+# Data files (protect sensitive research data)
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.npy
+*.npz
+
+# Model files
+*.pth
+*.pt
+*.ckpt
+*.pb
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# Documentation build
+docs/_build/
+*.pdf
+*.aux
+*.log
+*.bbl
+*.blg
+
+# LaTeX
+*.aux
+*.log
+*.pdf
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.toc
+*.lof
+*.lot
+*.out
+
+# Node.js
+node_modules/
+npm-debug.log*
+
+# Large datasets (educational samples only)
+large_datasets/
+proprietary_data/
+real_research_data/
+
+# Secrets and keys
+secrets/
+*.key
+*.pem
+*.crt
+*.cer
+*.p12
+*.pfx
+*.jks
+*.keystore
+
+# Environment files
+.env
+.env.local
+
+# Cache
+.cache/
+__pycache__/
+
+# Test results
+test_results/
+benchmark_results/
+
+# Temporary computational files
+temp_computations/
+intermediate_results/
